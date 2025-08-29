@@ -5,8 +5,7 @@ for(let i=0;i<arr.length-1;i++){
     for(let j=i+1;j<arr.length; j++){
         if(arr[j]<arr[current_min]){
             current_min =j;
-        }
-        
+        }     
     }
     let temp = arr[current_min];
         arr[current_min] =arr[i];
