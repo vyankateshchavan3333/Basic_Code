@@ -1,0 +1,4 @@
+profile <<<
+your repo << new <<
+vs code < terminal  < git init
+source control < stage file using "+" then cummit and add comment then sync or click on ... and push
